@@ -52,10 +52,19 @@ graph TD
 
 6. **Microcontroller Code**: Arduino code for the ESP8266 to send EMG readings to the database.
 
+### Data tab from webpage where it fetches the data and can terminate the process any time
 ![data](https://github.com/user-attachments/assets/e66d9660-43e0-4708-a8b7-1e208d671e4a)
+
+### Report tab for detail information with visual representation and the test result
 ![report](https://github.com/user-attachments/assets/f2d14f7d-4745-4b2b-94b6-2248bd516704)
+
+### Visual studio, Supabase and Arduino IDE
 ![snippets](https://github.com/user-attachments/assets/b2dfd97d-2363-4d29-b27a-b6572d2bff0b)
+
+### Reading table where the EMG data is pushed from ESP8266 and retrieved to server
 ![readings table](https://github.com/user-attachments/assets/bdf7004c-2675-4459-bc92-aa43757f245f)
+
+### Status table works as flag to know the availabilty to fetch and push
 ![status table](https://github.com/user-attachments/assets/19b01f8b-6551-472b-addf-d86c031e8119)
 
 
