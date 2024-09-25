@@ -24,6 +24,8 @@ graph TD
     C -->|Raw data| G
 ```
 
+## Dataset
+
 ## Prerequisites
 
 - Conda environment with the following packages:
@@ -110,10 +112,6 @@ graph TD
 ## Contributing
 
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your changes.
-
-## License
-
-[Insert your chosen license here]
 
 ## Contact
 
