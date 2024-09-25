@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project implements a time series deep learning model to classify strained/damaged muscles from regular/normal muscles. The system uses EMG (Electromyography) sensor data, processes it through a neural network, and provides classification results. This technology can be applied in various settings, including:
+This project implements a time series deep learning model, EMG sensor and ESP8266 microcontroller to classify strained/damaged muscles from regular/normal muscles. The system uses EMG (Electromyography) sensor data, processes it through a neural network, and provides classification results. This technology can be applied in various settings, including:
 
 - Gyms
 - Physical therapy clinics
