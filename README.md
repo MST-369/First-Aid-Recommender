@@ -1,4 +1,4 @@
-# Muscle Strain Classification System
+# First AID Recommender
 
 ## Project Overview
 
