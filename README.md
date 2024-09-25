@@ -96,7 +96,7 @@ SEMG_DB1.rar is uploaded.
 
 ## Usage
 
-1. Collect EMG data using the sensor and ESP8266 setup.
+1. Collect EMG data using the sensor and ESP8266 setup. [Didn't use EMG sensor but microcontroller mimicked]
 2. Run the feature extraction script:
    ```
    python feature_extraction.py
