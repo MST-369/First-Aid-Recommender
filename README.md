@@ -25,6 +25,8 @@ graph TD
 ```
 
 ## Dataset
+SEMG_DB1.rar is uploaded. 
+(Please ping me for Author credits)
 
 ## Prerequisites
 
