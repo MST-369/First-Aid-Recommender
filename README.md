@@ -52,12 +52,19 @@ graph TD
 
 6. **Microcontroller Code**: Arduino code for the ESP8266 to send EMG readings to the database.
 
+![data](https://github.com/user-attachments/assets/e66d9660-43e0-4708-a8b7-1e208d671e4a)
+![report](https://github.com/user-attachments/assets/f2d14f7d-4745-4b2b-94b6-2248bd516704)
+![snippets](https://github.com/user-attachments/assets/b2dfd97d-2363-4d29-b27a-b6572d2bff0b)
+![readings table](https://github.com/user-attachments/assets/bdf7004c-2675-4459-bc92-aa43757f245f)
+![status table](https://github.com/user-attachments/assets/19b01f8b-6551-472b-addf-d86c031e8119)
+
+
 ## Setup and Installation
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/muscle-strain-classification.git
-   cd muscle-strain-classification
+   git clone https://github.com/MST-369/First-Aid-Recommender.git
+   cd First-Aid-Recommender
    ```
 
 2. Set up the Conda environment:
@@ -83,11 +90,11 @@ graph TD
    ```
 3. Train the model:
    ```
-   python train_model.py
+   python model.py
    ```
 4. Start the web application:
    ```
-   python app.py
+   streamlit run <file path>
    ```
 5. Access the web interface to view results and classifications.
 
@@ -101,6 +108,6 @@ Contributions to this project are welcome. Please fork the repository and submit
 
 ## Contact
 
-[Your Name] - [Your Email]
+[Mani Surya Teja] - [manisuryatejak@gmail.com]
 
-Project Link: https://github.com/yourusername/muscle-strain-classification
+Project Link: https://github.com/MST-369/First-Aid-Recommender.git
